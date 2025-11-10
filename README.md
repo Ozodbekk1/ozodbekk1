@@ -84,22 +84,23 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ozodbekw/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ozodbekw/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-
-  <a href="https://x.com/ozodbek_w" target="_blank" rel="noopener noreferrer">
+  &nbsp;
+  <a href="https://x.com/ozodbek_w" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
-
-  <a href="https://t.me/ozodbek_w" target="_blank" rel="noopener noreferrer">
+  &nbsp;
+  <a href="https://t.me/ozodbek_w" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="Telegram" />
   </a>
-
-  <a href="mailto:olimjonovozodbek16@gmail.com" target="_blank" rel="noopener noreferrer">
+  &nbsp;
+  <a href="mailto:olimjonovozodbek16@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </p>
+
 
 
 ---
