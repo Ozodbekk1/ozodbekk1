@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Ozodbek+👋;Full-Stack+Developer+💻;Open+Source+Contributor+🚀" alt="Typing SVG" />
+  <img src="./typing.svg" alt="Typing animation" />
+
 
 </h1>
 
