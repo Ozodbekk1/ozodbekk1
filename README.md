@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=700&lines=Hey!+I'm+Ozodbek+👋;Full-Stack+Developer+🚀;Building+Modern+Web+Apps+💻;Technical+Writer+✍️;Open+Source+Contributor+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=700&lines=Hey!+I'm+Ozodbek+👋;Full-Stack+Developer+🚀;Building+Modern+Web+Apps+💻;Technical+Writer+✍️;Open+Source+Contributor+🌍" alt="Full-Stack Developer" />
 </h1>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 #### ⚙️ Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,mongodb,postgresql,supabase,firebase" />
 </p>
 
 #### ☁️ DevOps & Tools  
@@ -64,10 +64,8 @@
   <img src="https://komarev.com/ghpvc/?username=Ozodbekk1&style=for-the-badge&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Ozodbekk1?label=Followers&logo=github&style=for-the-badge&color=0E75B6" />
   <img src="https://img.shields.io/github/stars/Ozodbekk1?label=Stars&logo=github&style=for-the-badge&color=yellow" />
-  <a href="https://dev.to/ozodbekk1"><img src="https://img.shields.io/badge/Dev.to-Blogger-black?style=for-the-badge&logo=dev.to"></a>
-  <a href="https://hashnode.com/@ozodbekk1"><img src="https://img.shields.io/badge/Hashnode-Blogger-blue?style=for-the-badge&logo=hashnode"></a>
   <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" />
-  <a href="https://stackoverflow.com/users/yourid"><img src="https://img.shields.io/badge/Stackoverflow-Fullstack%20Dev-orange?style=for-the-badge&logo=stackoverflow"></a>
+ 
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=open-source-initiative">
 </p>
 
@@ -80,17 +78,17 @@
 - [Scaling Next.js + Supabase for Production 🚀](#)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ *Find more on [Dev.to](https://dev.to/ozodbekk1) and [Hashnode](https://hashnode.com/@ozodbekk1)*
 
 ---
 
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/ozodbekk1"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://x.com/ozodbekk1"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://dev.to/ozodbekk1"><img src="https://skillicons.dev/icons?i=devto" height="40" /></a>
-  <a href="mailto:ozodbek@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/ozodbekw/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://x.com/ozodbek_w"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://www.google.com/url?sa=E&source=gmail&q=https://t.me/ozodbek_w"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtelegram" height="40" alt="Telegram Icon" /></a>
+
+  <a href="mailto:olimjonovozodbek16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
