@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="100" viewBox="0 0 800 100" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Clip rect that will grow to reveal the text (typing effect) -->
+    <clipPath id="typeClip">
+      <rect x="0" y="0" width="0" height="80">
+        <!-- animate width from 0 to 760 in 4.5s -->
+        <animate attributeName="width" from="0" to="760" dur="4.5s" begin="0s" fill="freeze" />
+      </rect>
+    </clipPath>
+
+    <!-- Blinking cursor animation -->
+    <g id="cursor">
+      <rect x="0" y="10" width="6" height="60" rx="2" ry="2" fill="#00C2FF">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </defs>
+
+  <!-- background (transparent so it looks good on any GitHub theme) -->
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- Main text that will be revealed by the clipPath -->
+  <text x="8" y="60" font-family="Fira Code, monospace, Arial" font-size="28" fill="#00C2FF"
+        clip-path="url(#typeClip)">
+    Hey! I'm Ozodbek 👋 · Full-Stack Developer 💻 · Open-Source Contributor 🚀
+  </text>
+
+  <!-- Cursor: placed at the end; its x will be animated to follow full text width -->
+  <!-- We animate the x position from 0 to the final place (approx 760) in the same duration -->
+  <g transform="translate(0,0)">
+    <rect id="cursorRect" x="768" y="10" width="6" height="60" rx="2" ry="2" fill="#00C2FF">
+      <!-- blink: handled inside object to keep visibility -->
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <!-- move cursor from start to final position synced with typing -->
+    <animate xlink:href="#cursorRect" attributeName="x" from="8" to="768" dur="4.5s" begin="0s" fill="freeze" />
+  </g>
+
+  <!-- Optional: subtle fade-in for the whole element (improves first-frame) -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0s" fill="freeze"/>
+  </g>
+</svg>
