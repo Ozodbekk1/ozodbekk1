@@ -3,43 +3,55 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </p>
 
 ---
 
-### 🚀 About Me  
-💡 Passionate **Full-Stack Developer** building scalable apps with modern web technologies.  
-🌍 Love connecting **frontend and backend** to deliver seamless experiences.  
-📘 Technical Writer sharing insights on **React**, **Next.js**, **Node.js**, and **Supabase**.  
-🧠 Currently learning **WebSockets**, **microservices**, and **AI integrations**.  
-⚡ Fun fact: I enjoy turning complex systems into elegant UIs.  
+### 🚀 About Me
+💡 Passionate **Full-Stack Developer** building scalable apps with modern web technologies.<br>
+🌍 Love connecting **frontend and backend** to deliver seamless experiences.<br>
+📘 Technical Writer sharing insights on **React**, **Next.js**, **Node.js**, and **Supabase**.<br>
+🧠 Currently learning **WebSockets**, **microservices**, and **AI integrations**.<br>
+⚡ Fun fact: I enjoy turning complex systems into elegant UIs.<br>
+Always learning, always building.
+
+---
+
+### 🌐 Socials
+<p align="center">
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ozodbekw)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/occoffm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozodbekw)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ozodbek_w)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@web-developer-oziy)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:olimjonovozodbek16@gmail.com)
+</p>
 
 ---
 
 ### 🧩 Tech Stack  
 
-#### 🖥️ Frontend  
+#### 🖥️ Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,materialui,shadcn" />
 </p>
 
-#### ⚙️ Backend  
+#### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,mongodb,postgresql,supabase,firebase" />
 </p>
 
-#### ☁️ DevOps & Tools  
+#### ☁️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,vercel,linux,git,github,nginx,bash,postman,vscode,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ozodbekk1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ozodbekk1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=Ozodbekk1&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -50,59 +62,45 @@
 
 ---
 
-### 🏆 Achievements & Trophies  
-
+### 🏆 Achievements & Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ozodbekk1&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
 
-### 🛡️ Badges & Status  
-
+### 🛡️ Badges & Status
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ozodbekk1&style=for-the-badge&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Ozodbekk1?label=Followers&logo=github&style=for-the-badge&color=0E75B6" />
   <img src="https://img.shields.io/github/stars/Ozodbekk1?label=Stars&logo=github&style=for-the-badge&color=yellow" />
   <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" />
- 
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=open-source-initiative">
 </p>
 
 ---
 
-### ✍️ Latest Blog Posts  
+### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Secure Payme Integration with NestJS + Supabase 💳](#)
 - [Mastering JWT & Refresh Tokens in Full-Stack Apps 🔐](#)
 - [Scaling Next.js + Supabase for Production 🚀](#)
 <!-- BLOG-POST-LIST:END -->
 
-
 ---
 
-### 🌐 Connect with Me  
-
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ozodbekw/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/ozodbekw/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://x.com/ozodbek_w" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
-  </a>
+  <a href="https://x.com/ozodbek_w" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" /></a>
   &nbsp;
-  <a href="https://t.me/ozodbek_w" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="Telegram" />
-  </a>
+  <a href="https://t.me/ozodbek_w" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=telegram" height="40" alt="Telegram" /></a>
   &nbsp;
-  <a href="mailto:olimjonovozodbek16@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
+  <a href="mailto:olimjonovozodbek16@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
 </p>
-
-
 
 ---
 
 <h3 align="center">✨ “Code the Front. Power the Back. Build the Future.” ✨</h3>
+
